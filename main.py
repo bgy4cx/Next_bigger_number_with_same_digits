@@ -1,2 +1,2 @@
-def main():
-    return False
+def next_bigger(digits):
+    return -1
