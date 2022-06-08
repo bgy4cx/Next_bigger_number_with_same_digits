@@ -7,3 +7,7 @@
 ## 2. - 7. Pomodoro
 
 - It was difficult to find out the proper algorithm.
+
+## 8. Pomodoro
+
+- Refactoring
