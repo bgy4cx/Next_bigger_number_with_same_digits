@@ -20,9 +20,9 @@
 
 ### Guardinas
 
-- Input positiv integer.🔴💿
-- Output is an integer or -1 in case of no bigger situation.🔴💿
+- Input positiv integer.🔴💿🟢💿♻️💿✅🍅
+- Output is an integer or -1 in case of no bigger situation.🔴💿🟢💿♻️💿✅🍅🍅
 
 ### Process
 
-- The code should find the bigger number.🔴💿
+- The code should find the bigger number.🔴💿🟢💿♻️💿✅🍅🍅🍅🍅🍅🍅🍅🍅
