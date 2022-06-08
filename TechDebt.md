@@ -2,4 +2,4 @@
 
 ## 1. Pomodoro
 
-- Questions and decesions.
+- I started the coding. The test cases were added to code.
